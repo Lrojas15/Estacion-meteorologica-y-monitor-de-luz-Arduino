@@ -1,0 +1,15 @@
+Pantalla LCD 16x2:
+
+VSS > GND | VDD > 5V
+VO (Contraste) > Pin Central del Potenciómetro
+RS > Pin Digital 12
+Enable (E) > Pin Digital 11
+D4  >  Pin Digital 5 | D5  >  Pin Digital 4
+D6  >  Pin Digital 3 | D7  >  Pin Digital 2
+LED Anodo (A)  >  Resistencia 220ohms  >  5V
+LED Catodo (K)  >  GND
+
+Sensores:
+
+TMP36: VCC  >  5V, GND  >  GND, OUT  >  Pin Analógico A0
+LDR: Un extremo a 5V, el otro extremo al Pin Analógico A1 y a la resistencia de 10Kohm conectada a GND.
