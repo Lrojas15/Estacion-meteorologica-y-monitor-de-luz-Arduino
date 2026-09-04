@@ -12,8 +12,8 @@
 - Pantalla LCD 16x2
 - Sensor de Temperatura TMP36
 - Fotoresistencia (LDR)
-- Potenciómetro $10k\Omega$
-- Resistencia $220\Omega$ y $10k\Omega$
+- Potenciómetro 10Kohm
+- Resistencia 220 Ohms y 10Kohm
 
 ## 🚀 Probar en Tinkercad
 Puedes interactuar con la simulación directamente desde Tinkercad ajustando el deslizador de temperatura del TMP36 o la luminosidad de la LDR.
