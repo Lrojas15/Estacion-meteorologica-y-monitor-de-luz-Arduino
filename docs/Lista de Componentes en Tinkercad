@@ -1,0 +1,7 @@
+1x Arduino Uno R3
+1x Pantalla LCD 16x2 (con o sin I2C)
+1x Sensor de Temperatura (TMP36)
+1x Sensor de Luz / Fotoresistencia (LDR) + 1x Resistencia de 10Kohm
+1x Potenciómetro de 10Kohm (Ajuste de contraste LCD)
+1x Resistencia de 220ohms (Retroiluminación LCD)
+1x Protoboard
